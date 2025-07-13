@@ -27,7 +27,7 @@
   display: block;
   color: #7D00FF;
   text-align: center;
-  padding: 3px 12px;
+  padding: 7px 15px;
   text-decoration: none;
 }
 
@@ -79,12 +79,12 @@ h2 {
         width:94%;
         height:auto;
         
-        margin:12px 3%;
+        margin:19px 3%;
         background-color:#FFFFFF;
         box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
-        border: solid 3px red;
+        border: solid 3px blue;
 
-        border-radius:27px;
+        border-radius:33px;
     }
     #ppp{
         width:92%;
@@ -92,14 +92,16 @@ h2 {
         margin:9px 4%;
         
     }
-    pre {
-    white-space: pre-wrap; /* Preserve white spaces, wrap text as needed */
-    word-wrap: break-word; /* Break long words to fit within the container */
-    text-align: center;
-    font-size:2.5vw;
-    font-family: Arial, sans-serif;
-    
-}
+  
+ pre{
+            white-space: pre-wrap; /* Preserve white spaces, wrap text as needed */
+            word-wrap: break-word; /* Break long words to fit within the container */
+            font-size: 3.0vw;
+          
+            text-align: center;
+            color:#B3D8D7;
+            font-family:Times New Roman;
+        }
     
     button{
         width:50%;
@@ -185,4 +187,3 @@ h2 {
        height:18px;
        background: #FFFFFF;
    }
-   
